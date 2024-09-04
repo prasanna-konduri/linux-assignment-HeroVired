@@ -52,7 +52,8 @@ Write a script that takes a file as an argument and checks if the file has read,
 Write a script that compresses the `/home/user/documents` directory into a tarball named `documents_backup.tar.gz` and moves it to the `/home/user/backup` directory. This script should be scheduled to run daily using cron.
 
 #### solution:
-
+1.make sure your file have executable permissions.
+2. terminal have full disc access
 ### Q7: Process Monitor:
 Write a script that checks if a specific process (e.g., `apache2`) is running. If the process is not running, the script should start the process and log the action to a file.
 
