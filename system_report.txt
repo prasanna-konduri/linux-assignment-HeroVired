@@ -1,0 +1,12 @@
+System Information Report
+=========================
+System Uptime: 12:03  up  2:39, 2 users, load averages: 2.84 3.45 2.68
+Memory Usage: Free: 621.781 MB, Active: 1884.31 MB, Inactive: 1884.31 MB 
+CPU Load: User: 9.38%, System: 22.76%, Idle: 67.84%
+Disk Usage: /dev/disk1s1s1: 70% used (12Gi of 113Gi)
+/dev/disk1s3: 41% used (3.8Gi of 113Gi)
+/dev/disk1s5: 1% used (20Ki of 113Gi)
+/dev/disk1s6: 2% used (64Mi of 113Gi)
+/dev/disk1s2: 95% used (90Gi of 113Gi)
+/dev/disk1s1: 70% used (12Gi of 113Gi)
+Number of Running Processes:      558
